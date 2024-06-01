@@ -9,3 +9,6 @@ Software
 Contact us:
 - [Discord](https://discord.gg/kMSyYjsxkJ)
 - Email: ciananotechnologies@gmail.com
+
+Our Products:
+- NWare (Coming in 2024!)
