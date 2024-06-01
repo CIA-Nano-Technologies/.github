@@ -2,9 +2,7 @@
 We strive to create the worlds most:
 - Intelligent
 - Fast
-- Easy to Use
-  
-Software
+- Easy to Use Software
 
 Contact us:
 - [Discord](https://discord.gg/kMSyYjsxkJ)
