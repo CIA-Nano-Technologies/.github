@@ -9,4 +9,4 @@ Contact us:
 - Email: ciananotechnologies@gmail.com
 
 Our Products:
-- [JuanWare](https://github.com/CIA-Nano-Technologies/JuanWare) (Coming in 2024!)
+- [JuanWare®](https://github.com/CIA-Nano-Technologies/JuanWare) (Coming in 2024!)
