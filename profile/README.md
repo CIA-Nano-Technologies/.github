@@ -11,4 +11,4 @@ Contact us:
 - Email: ciananotechnologies@gmail.com
 
 Our Products:
-- NWare (Coming in 2024!)
+- JuanWare (Coming in 2024!)
